@@ -11,3 +11,12 @@ sgatで利用する、2019-03-31実施用の資料です。
 「netlifyで始めるサーバーレス開発」については、加筆版がインプレスR&D社さんから販売されていますので、さらに理解を深めたい方は是非購入してください。
 
 https://nextpublishing.jp/book/10418.html
+
+
+資料は以下になっています。
+
+./01_Netlify/netlify_introduction.md
+./02_Netlify_Functions/netlify_functions.md
+./03_Netlify_LINEBot/netlify_LINEbot.md
+
+詳細は、ここのページで。
