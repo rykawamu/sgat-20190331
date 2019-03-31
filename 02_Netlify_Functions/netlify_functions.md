@@ -89,7 +89,7 @@ root
 　+ .gitignore
 　+ package.json
 　+ netlify.tom
-  ∟ functions/
+  ∟ src/
       ∟ hello.js
 ```
 
