@@ -207,7 +207,11 @@ LINEのチャネル側の「Webhook URL」をpingから**`コピーしたreply`*
 
 <img src="./images/03_2019-03-25_0.49.38.png" width="600">
 
+その後、サイトをもう一度Deployする。ソースコードを変えないで実施する場合、「Deployタグ」の画面から「Trigger Deploy」をクリックして「Deploy Site」を選択してDeployを行う。
+
 この状態で、友達になったLINE Botに話しかけると、LINE Botが「**Hello Netlify Bot**」と返してくれる。
+
+ここで、もし応答を返してくれない場合、LINE Developersの「Webhook」の利用が「利用しない」になっている場合があるので、確認してみてください。（設定したとしても、なぜか利用しないの戻されている場合もあるので、一度ログアウトしたあとログインしてみるとかした後で、再確認してみてください。）
 
 あとは、GitHubリポジトリに登録されている別のFunctionsのURLを指定するなどして動作確認してみてください。
 
