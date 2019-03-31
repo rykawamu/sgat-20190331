@@ -15,10 +15,10 @@ https://nextpublishing.jp/book/10418.html
 
 資料は以下になっています。
 
-./01_Netlify/netlify_introduction.md
+[Netlify入門](./01_Netlify/netlify_introduction.md)
 
-./02_Netlify_Functions/netlify_functions.md
+[NetlifyFunctions](./02_Netlify_Functions/netlify_functions.md)
 
-./03_Netlify_LINEBot/netlify_LINEbot.md
+[Netlify & LINE Bot](./03_Netlify_LINEBot/netlify_LINEbot.md)
 
 詳細は、ここのページで。
